@@ -1,0 +1,43 @@
+Start,End,Distance,Travel Time,Traffic Delay
+Intersection B,Address 456 Oak St,0.58,1.16,2
+Intersection B,Intersection C,3.89,7.78,4
+Intersection B,Address 789 Pine St,1.22,2.44,4
+Intersection B,Address 123 Main St,1.32,2.64,5
+Intersection B,Intersection D,2.02,4.04,1
+Intersection B,Intersection A,4.02,8.04,5
+Address 456 Oak St,Intersection B,1.26,2.52,1
+Address 456 Oak St,Intersection C,2.96,5.92,3
+Address 456 Oak St,Address 789 Pine St,1.1,2.2,4
+Address 456 Oak St,Address 123 Main St,3.8,7.6,3
+Address 456 Oak St,Intersection D,0.74,1.48,4
+Address 456 Oak St,Intersection A,4.8,9.6,2
+Intersection C,Intersection B,2.35,4.7,0
+Intersection C,Address 456 Oak St,3.42,6.84,5
+Intersection C,Address 789 Pine St,3.32,6.64,3
+Intersection C,Address 123 Main St,1.26,2.52,3
+Intersection C,Intersection D,1.37,2.74,3
+Intersection C,Intersection A,4.75,9.5,0
+Address 789 Pine St,Intersection B,3.58,7.16,3
+Address 789 Pine St,Address 456 Oak St,1.01,2.02,0
+Address 789 Pine St,Intersection C,4.57,9.14,1
+Address 789 Pine St,Address 123 Main St,3.82,7.64,1
+Address 789 Pine St,Intersection D,3.69,7.38,2
+Address 789 Pine St,Intersection A,4.07,8.14,5
+Address 123 Main St,Intersection B,2.95,5.9,0
+Address 123 Main St,Address 456 Oak St,0.94,1.88,5
+Address 123 Main St,Intersection C,4.2,8.4,5
+Address 123 Main St,Address 789 Pine St,4.02,8.04,1
+Address 123 Main St,Intersection D,0.86,1.72,0
+Address 123 Main St,Intersection A,2.94,5.88,2
+Intersection D,Intersection B,3.42,6.84,3
+Intersection D,Address 456 Oak St,3.79,7.58,0
+Intersection D,Intersection C,4.7,9.4,2
+Intersection D,Address 789 Pine St,1.31,2.62,2
+Intersection D,Address 123 Main St,1.68,3.36,2
+Intersection D,Intersection A,1.99,3.98,4
+Intersection A,Intersection B,2.76,5.52,1
+Intersection A,Address 456 Oak St,1.99,3.98,4
+Intersection A,Intersection C,1.57,3.14,3
+Intersection A,Address 789 Pine St,4.45,8.9,0
+Intersection A,Address 123 Main St,3.17,6.34,4
+Intersection A,Intersection D,1.06,2.12,5

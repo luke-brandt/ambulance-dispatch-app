@@ -1,0 +1,101 @@
+Call ID,Location,Call Type
+1,Intersection D,Stroke
+2,Address 123 Main St,Minor Car Accident
+3,Address 789 Pine St,House Fire
+4,Intersection C,Minor Burn
+5,Intersection C,Minor Car Accident
+6,Intersection D,Childbirth
+7,Intersection A,Seizure
+8,Intersection C,Heart Attack
+9,Address 456 Oak St,Food Poisoning
+10,Address 123 Main St,Panic Attack
+11,Intersection B,Panic Attack
+12,Intersection D,Seizure
+13,Intersection D,Dehydration
+14,Address 789 Pine St,High Fever
+15,Address 456 Oak St,Childbirth
+16,Address 456 Oak St,Severe Bleeding
+17,Address 123 Main St,Asthma Attack
+18,Intersection A,Fainting
+19,Address 456 Oak St,Panic Attack
+20,Intersection B,Panic Attack
+21,Address 789 Pine St,Seizure
+22,Intersection D,Seizure
+23,Address 123 Main St,House Fire
+24,Intersection D,Asthma Attack
+25,Address 456 Oak St,Severe Car Accident
+26,Intersection B,Severe Car Accident
+27,Intersection A,Dehydration
+28,Intersection A,Animal Bite
+29,Intersection C,Minor Car Accident
+30,Address 123 Main St,Allergic Reaction
+31,Address 456 Oak St,Childbirth
+32,Intersection D,Asthma Attack
+33,Intersection A,Animal Bite
+34,Intersection A,Childbirth
+35,Intersection D,Drug Overdose
+36,Address 456 Oak St,Drug Overdose
+37,Address 456 Oak St,House Fire
+38,Intersection A,Minor Burn
+39,Intersection A,Asthma Attack
+40,Intersection D,Head Injury
+41,Address 789 Pine St,Drug Overdose
+42,Address 789 Pine St,Seizure
+43,Intersection C,Severe Bleeding
+44,Address 456 Oak St,Seizure
+45,Address 789 Pine St,Seizure
+46,Address 789 Pine St,Childbirth
+47,Intersection D,Dehydration
+48,Address 123 Main St,Seizure
+49,Intersection B,Severe Bleeding
+50,Address 456 Oak St,Dehydration
+51,Intersection C,Dehydration
+52,Intersection C,Heart Attack
+53,Intersection C,Severe Bleeding
+54,Address 789 Pine St,Drug Overdose
+55,Intersection C,Dehydration
+56,Intersection B,Head Injury
+57,Intersection B,Heart Attack
+58,Address 456 Oak St,Fainting
+59,Address 789 Pine St,Fainting
+60,Address 456 Oak St,Minor Car Accident
+61,Intersection B,Heart Attack
+62,Address 123 Main St,Severe Bleeding
+63,Address 789 Pine St,Drug Overdose
+64,Address 123 Main St,Drug Overdose
+65,Intersection C,Heart Attack
+66,Intersection A,Dehydration
+67,Intersection A,Panic Attack
+68,Intersection B,Allergic Reaction
+69,Intersection D,High Fever
+70,Intersection D,Panic Attack
+71,Intersection B,Heart Attack
+72,Intersection B,Broken Leg
+73,Address 456 Oak St,Heart Attack
+74,Address 123 Main St,Heart Attack
+75,Address 456 Oak St,Animal Bite
+76,Intersection C,Head Injury
+77,Intersection A,Dehydration
+78,Intersection D,High Fever
+79,Address 123 Main St,House Fire
+80,Intersection A,Heart Attack
+81,Address 456 Oak St,Panic Attack
+82,Intersection D,Severe Car Accident
+83,Intersection B,Stroke
+84,Intersection D,Seizure
+85,Address 123 Main St,Drug Overdose
+86,Intersection A,Severe Bleeding
+87,Intersection B,Drug Overdose
+88,Intersection A,Dehydration
+89,Intersection C,Dehydration
+90,Address 123 Main St,Asthma Attack
+91,Intersection D,Food Poisoning
+92,Intersection D,Minor Burn
+93,Intersection C,Heart Attack
+94,Address 456 Oak St,Dehydration
+95,Address 123 Main St,House Fire
+96,Intersection B,Minor Burn
+97,Intersection B,Stroke
+98,Address 789 Pine St,Severe Car Accident
+99,Address 123 Main St,High Fever
+100,Address 123 Main St,Minor Burn
