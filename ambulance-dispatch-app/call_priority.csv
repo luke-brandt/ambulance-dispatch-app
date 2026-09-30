@@ -1,0 +1,21 @@
+Call Type,Priority
+Heart Attack,1
+Stroke,1
+Severe Car Accident,1
+Minor Car Accident,2
+House Fire,1
+Allergic Reaction,2
+Broken Leg,2
+Childbirth,1
+Drug Overdose,1
+Fainting,2
+Animal Bite,2
+Asthma Attack,1
+Severe Bleeding,1
+Minor Burn,3
+Head Injury,1
+Food Poisoning,3
+High Fever,3
+Dehydration,3
+Seizure,1
+Panic Attack,3
